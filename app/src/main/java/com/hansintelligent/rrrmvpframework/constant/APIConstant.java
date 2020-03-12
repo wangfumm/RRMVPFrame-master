@@ -9,7 +9,7 @@ import okhttp3.MediaType;
 
 public class APIConstant {
 
-    public final static String BASE_PATH = "http://www.ubusclub.com:2090/Member/";
+    public final static String BASE_PATH = "·þÎñÆ÷µØÖ·";
 
     public static final MediaType MEDIA_TYPE = MediaType.parse("application/json; charset=utf-8");
 
